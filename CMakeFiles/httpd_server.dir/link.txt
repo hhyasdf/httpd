@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/httpd_server.dir/httpd.o  -o httpd_server -rdynamic -lpthread 

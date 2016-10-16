@@ -1,0 +1,3 @@
+/home/hhy/github/httpd/CMakeFiles/edit_cache.dir
+/home/hhy/github/httpd/CMakeFiles/rebuild_cache.dir
+/home/hhy/github/httpd/CMakeFiles/httpd_server.dir
